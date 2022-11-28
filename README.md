@@ -9,3 +9,5 @@ https://s3.documentcloud.org/documents/21397387/ragnarlocker-ransomware-indicato
 https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/fbi-releases-indicators-compromise-ragnarlocker-ransomware
 
 https://therecord.media/greek-gas-operator-refuses-to-negotiate-with-ransomware-group-after-attack/
+
+https://www.vrt.be/vrtnws/nl/2022/11/24/hacking-politie-zwijndrecht/
