@@ -11,3 +11,5 @@ https://www.cisa.gov/uscert/ncas/current-activity/2022/03/08/fbi-releases-indica
 https://therecord.media/greek-gas-operator-refuses-to-negotiate-with-ransomware-group-after-attack/
 
 https://www.vrt.be/vrtnws/nl/2022/11/24/hacking-politie-zwijndrecht/
+
+https://www.bleepingcomputer.com/news/security/ransomware-gang-targets-belgian-municipality-hits-police-instead/
